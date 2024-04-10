@@ -13,7 +13,7 @@ public class A007 {
 		
 		//see video 1:59:46 to 3:07:35 03/31/2024 -----> very very very important / GIT HUB installation with explain of git hub
 		
-		//see video 3:08:30 to 4:18:00 03/31/2024 -----> practice git hub
+		//see video 3:08:30 to 4:18:00 03/31/2024 -----> practice git hub ---> at 3:55:32 there is homework must see
 		
 		
 		//see video from very beginning to 0:15:19 04/03/2024 -----> Error faced
